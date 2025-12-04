@@ -26,8 +26,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “Hello World”.
-Developed by: Srinidhi P
-Registeration Number : 212222040160
+Developed by: Dinesh M
+Registeration Number : 212222043002
 */
 ```
 
